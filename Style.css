@@ -1,0 +1,82 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #8db600	
+	
+}
+
+*{ font-family: Arial;}
+
+header{
+	background-color:#a9d446;
+	padding: 30px;
+	text-align: center;
+	border: inset 5px #88b03b;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+nav{
+	background-color: #8db600;
+	padding: 25px;
+	margin: 50px;
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+img{
+    height: 400px;
+	margin: 50px auto;
+	border-radius: 10px;
+	box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.2);
+	
+	border: 25px inset #689019
+}
+
+h1{
+	font-size: 275%;
+}
+
+h1, h2{
+	color: white;
+	text-decoration:none;
+	}
+	
+nav a{
+	border: solid 10px #588100;
+	text-decoration: none;
+	color: white;
+	margin: 10px;
+	font-family: "arial";
+	padding: 10px;
+	margin: 15x ;
+	border: 3px solid #365607;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+	background-color: #588100
+	
+}
+
+
+main a{
+	display:block;
+    padding: 30px;
+	font-size: 135%;
+	color: white;
+	text-align: center;
+	text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+	box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.5);
+    background-color: #006400
+	
+
+}	
+
+
+
+section{
+	background-color: #e3f188;
+}
+
+.cabecalhoRodape{
+	color: white;
+	text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+	background-color: #8db600;
+}
